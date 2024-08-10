@@ -13,4 +13,4 @@
 
 ## If ReactJS app not starts
 
-If ReactJS app not starts from here, then Initialize new ReactJS app with `npx create-react-app react-chatbot-app` and use these materials.
+If ReactJS app not starts from here, then Initialize new ReactJS app directory with `npx create-react-app react-chatbot-app` and use these materials.
