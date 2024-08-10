@@ -1,0 +1,9 @@
+flask
+flask_cors
+mysql-connector-python
+pymysql
+langchain
+langchain_community
+langchain_huggingface
+ctransformers
+faiss-gpu
